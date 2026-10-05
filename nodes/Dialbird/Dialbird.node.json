@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-dialbird.dialbird",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/teamchalkboard/n8n-nodes-dialbird#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/teamchalkboard/n8n-nodes-dialbird#readme"
+			}
+		]
+	}
+}
